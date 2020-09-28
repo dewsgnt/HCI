@@ -8,5 +8,5 @@ Jembatan ini didesain mampu menahan angin sampai 100 kilometer (km) per jam. Nam
 <h2>Kegagalan Desain</h2><br>
 
 ![Jembatan Tacoma Narrows Runtuh](TacomaNarrowsCollapse.png)
-<br>sumber gambar: https://images.app.goo.gl/nwhQuu48QFimrxF99
+<br>sumber gambar: https://images.app.goo.gl/nwhQuu48QFimrxF99<br>
 Kegagalan desain Jembatan Tacoma Narrows adalah karena strukturnya tidak kuat meredam getaran. Maka, perlu adanya penambahan berat pada struktur jembatan itu sehingga bisa tahan terhadap tekanan angin. Oleh karena itu, kami menambah lebar jalan dari 12 meter menjadi 30 meter, menambahkan beban pada bagian bawah jembatan dan juga bagian bawahnya dibuat berongga supaya angin bisa melewati jembatan tanpa hambatan. Dengan begitu jembatan tidak mudah bergoyang ketika terkena terpaan angin kencang.
