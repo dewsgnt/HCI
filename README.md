@@ -1,0 +1,8 @@
+# HCI
+ASSIGNMENT 1 INTERAKSI MANUSIA KMOMPUTER
+TEAM J
+Anggota:
+1. Savitri (1313619015)
+2. Dewi Sugianti (1313619010)
+3. Rahma Wati Malawat (1313619042)
+
