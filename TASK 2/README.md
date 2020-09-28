@@ -1,5 +1,6 @@
 Narasumber 	:  Bapak Prastarana Agi Handaru <br>
-Pekerjaan 	: di PT.INDOIN BUSINESS GROUP
+Pekerjaan 	: di PT.INDOIN BUSINESS GROUP<br>
+[Tautan Linked.in Bapak Prastarana] (https://www.linkedin.com/in/prastarana-agi-92465b177/)
 
 1.	Sudah berapa lama bekerja sebagai UX designer?<br>
 “Untuk kerja di bagian desain memang sudah lama, tapi untuk di UX nya baru 2 tahun”
