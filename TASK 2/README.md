@@ -1,4 +1,4 @@
-Narasumber 	:  Bapak Prastarana Agi Handaru
+Narasumber 	:  Bapak Prastarana Agi Handaru <br>
 Pekerjaan 	: di PT.INDOIN BUSINESS GROUP
 
 1.	Sudah berapa lama bekerja sebagai UX designer?<br>
