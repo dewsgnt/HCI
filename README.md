@@ -5,8 +5,8 @@ TEAM J:<br>
 2. Dewi Sugianti (1313619010)
 3. Rahma Wati Malawat (1313619042)
 
-TASK 1:
+<h1>TASK 1:</h1>
 https://github.com/dewsgnt/HCI/tree/master/TASK%201
 
-TASK 2:
+<h1>TASK 2:</h1>
 https://github.com/dewsgnt/HCI/tree/master/TASK%202
