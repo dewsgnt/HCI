@@ -1,4 +1,4 @@
-Jembatan Tacoma Narrows Runtuh<br>
+<h1>Jembatan Tacoma Narrows Runtuh</h1><br>
 
 ![Jembatan Tacoma Narrows](tacoma_Narrows_bridge_2.jpg)
 <br>sumber gambar: https://images.app.goo.gl/nViazZZX8KXCTGkcA
