@@ -9,4 +9,4 @@ TASK 1:
 https://github.com/dewsgnt/HCI/tree/master/TASK%201
 
 TASK 2:
-https://github.com/dewsgnt/HCI/blob/master/TASK%202/README.md
+https://github.com/dewsgnt/HCI/tree/master/TASK%202
