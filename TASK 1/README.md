@@ -1,6 +1,7 @@
 <h1>Task 1 : Evaluation of Existing App</h1><br><br>
 
 <h2>Use Case</h2><br>
+![Use_Case](https://user-images.githubusercontent.com/71834960/95668110-999c6f00-0b99-11eb-9559-e1c42605bb74.jpeg)
 
 
 <h2>Activity Diagram</h2><br>
