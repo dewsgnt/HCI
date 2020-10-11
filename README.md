@@ -14,5 +14,6 @@
 <a href = "https://github.com/dewsgnt/HCI/tree/hw2/TASK%201"> Evaluation of Existing App </a>
 
 
-<h2>TASK 2: Applying Design Sprint </h2>
+<h2>TASK 2:  </h2>
+<a href = "https://github.com/dewsgnt/HCI/tree/hw2/TASK%202">Applying Design Sprint </a>
 
