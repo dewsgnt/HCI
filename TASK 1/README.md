@@ -1,7 +1,7 @@
 <h1>Task 1 : Evaluation of Existing App</h1><br><br>
 
 <h2>Use Case</h2><br>
-![Use_Case](TASK 1/Use_Case.jpeg)
+![Use_Case](https://github.com/dewsgnt/HCI/blob/hw2/TASK%201/Use_Case.jpeg)
 
 
 <h2>Activity Diagram</h2><br>
