@@ -8,12 +8,13 @@
 <h2>Day 2 Report</h2>
 <p>On the Day 2, two of our team members work to compete to make designs with the material design principle<br>
   DESIGN 1<br>
-  This one is an accepted design.
+  This one is an accepted design. <a href="https://github.com/dewsgnt/HCI/blob/hw2/TASK%202/desain.png"> Click here for detail.</a>
   
   ![page1-1](page1-1.jpg)
   
   
-  DESIGN 2
+  DESIGN 2<br>
+  <a href="https://github.com/dewsgnt/HCI/blob/hw2/TASK%202/desain2.png">Click here for detail.</a>
   
   ![page1-2](page1-2.jpg)
   
@@ -27,5 +28,5 @@
  
 <h2>Day 4 Report</h2>
 <p>On the Day 4, we've had a virtual meeting with the developer. we explained about why our design's necessary. And the developer gave us a little feedback.<br>
-The video can be streamed here : <br>
+<a href="https://youtu.be/KZ-LBU_-GN4">The video can be streamed here.</a><br>
 <p>This meeting was held on Tuesday, October 13th 2020.
