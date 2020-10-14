@@ -14,4 +14,4 @@
 <h3>TASK 2: <a href = "https://github.com/dewsgnt/HCI/tree/hw2/TASK%202"> Applying Design Sprint </a> </h3>
 
 
-<h3>Editing Tool: <a href= "www.figma.com"> Figma</a></h3>
+<h3>Editing Tool: <a href= "https://www.figma.com/"> Figma</a></h3>
