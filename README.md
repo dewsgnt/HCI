@@ -5,15 +5,13 @@
 2. Dewi Sugianti (1313619010)<br>
 3. Rahma Wati Malawat (1313619042)<br>
 
-<h2>APPLICATION: </h2>
-<a href = "https://play.google.com/store/apps/details?id=id.eventhits.android.users"> Event Hits App</a>
+<h3>APPLICATION: <a href = "https://play.google.com/store/apps/details?id=id.eventhits.android.users"> Event Hits App</a></h3>
 
-<h2>ABOUT DEVELOPER</h2>
+<h3>ABOUT DEVELOPER</h3>
 
-<h2>TASK 1: </h2>
-<a href = "https://github.com/dewsgnt/HCI/tree/hw2/TASK%201"> Evaluation of Existing App </a>
+<h3>TASK 1: <a href = "https://github.com/dewsgnt/HCI/tree/hw2/TASK%201"> Evaluation of Existing App </a></h3>
+
+<h3>TASK 2: <a href = "https://github.com/dewsgnt/HCI/tree/hw2/TASK%202"> Applying Design Sprint </a> </h3>
 
 
-<h2>TASK 2:  </h2>
-<a href = "https://github.com/dewsgnt/HCI/tree/hw2/TASK%202">Applying Design Sprint </a>
-
+<h3>Editing Tool: <a href= "www.figma.com"> Figma</a></h3>
