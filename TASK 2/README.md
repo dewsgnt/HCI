@@ -7,6 +7,17 @@
   
 <h2>Day 2 Report</h2>
 <p>On the Day 2, two of our team members work to compete to make designs with the material design principle<br>
+  DESIGN 1<br>
+  This one is an accepted design.
+  
+  ![page1-1](page1-1.jpg)
+  
+  
+  DESIGN 2
+  
+  ![page1-2](page1-2.jpg)
+  
+  
 <p>This was held on Wednesday to Friday, October 7th-9th 2020.
 
 <h2>Day 3 Report</h2>
